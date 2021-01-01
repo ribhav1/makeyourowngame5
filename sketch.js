@@ -27,7 +27,7 @@ var playerMoveSpeed = 0.15;
 var fruitMoveSpeed = 3;
 var bombMoveSpeed = 3;
 
-var bombSpawnRate = 10;
+var bombSpawnRate = 300;
 var fruitSpawnRate = 50;
 
 var health = 25;
